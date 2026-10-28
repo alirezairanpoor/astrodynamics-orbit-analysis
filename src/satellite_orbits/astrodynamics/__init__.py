@@ -1,8 +1,8 @@
-from .two_body import (
+from satellite_orbits.astrodynamics.keplerian.two_body import (
     circular_velocity,
 )
 
-from .maneuvers import (
+from satellite_orbits.astrodynamics.orbit_design.maneuvers import (
     hohmann_transfer,
 )
 

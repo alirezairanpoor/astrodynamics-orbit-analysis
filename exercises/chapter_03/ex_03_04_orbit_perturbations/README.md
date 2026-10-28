@@ -220,10 +220,3 @@ For these specific orbits and propagation intervals:
   over one day.
 - The force-model detail required depends on orbit altitude,
   propagation duration, and the desired position accuracy.
-
-## Status
-
-All requested propagation cases have been implemented and run.
-Reference step-halving checks passed the selected criterion.
-Remaining textbook discrepancies are documented, including
-the unresolved SRP difference.

@@ -1,6 +1,6 @@
 from math import sqrt
 
-from .two_body import circular_velocity
+from satellite_orbits.astrodynamics.keplerian.two_body import circular_velocity
 
 
 def hohmann_transfer(mu: float, r1: float, r2: float) -> tuple[float, float, float]:

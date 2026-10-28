@@ -92,8 +92,3 @@ timing ratios need not equal the corresponding pure N^2 ratios.
 The measured 10x10-to-4x4 ratio is close to the approximate
 factor of three reported in the book. Absolute timings depend
 on hardware, software, and implementation.
-
-## Status
-
-Exercise completed: implementation, timing experiment,
-and comparison with quadratic scaling.

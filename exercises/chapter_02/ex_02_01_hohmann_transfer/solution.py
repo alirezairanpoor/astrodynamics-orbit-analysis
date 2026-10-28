@@ -1,6 +1,6 @@
 from satellite_orbits.constants import MU_EARTH, R_EARTH
-from satellite_orbits.astrodynamics.two_body import circular_velocity
-from satellite_orbits.astrodynamics.maneuvers import hohmann_transfer
+from satellite_orbits.astrodynamics.keplerian.two_body import circular_velocity
+from satellite_orbits.astrodynamics.orbit_design.maneuvers import hohmann_transfer
 
 
 # Exercise 2.1

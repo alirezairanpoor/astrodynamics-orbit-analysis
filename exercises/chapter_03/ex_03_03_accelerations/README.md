@@ -90,10 +90,4 @@ The book reports approximately 752 km. That value lies between
 these results, but this does not constitute reproduction of
 the book's specific atmospheric calculation.
 
-## Status
 
-The gravitational comparisons and the two explicitly defined
-density-envelope cases are complete.
-
-Reproduction of the book's specific 752 km result remains open
-because its precise atmospheric assumptions have not been identified.
